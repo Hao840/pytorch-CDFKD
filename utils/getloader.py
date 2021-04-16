@@ -39,9 +39,11 @@ def get_loader(root, dataset, batch_size):
         ])
 
         data_train = CIFAR10(root=root,
+                             download=True,
                              transform=transform_train)
         data_test = CIFAR10(root=root,
                             train=False,
+                            download=True,
                             transform=transform_test)
     else:
         raise NotImplementedError
