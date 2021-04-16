@@ -57,9 +57,9 @@ python attention-train.py --dataset=cifar10 --data_num=500 --n_epochs=30
 
 ## Results
 
-![res_mnist](figure/res_mnist.png)
+<img src="figure/res_mnist.png" alt="res_mnist" style="zoom: 67%;" />
 
-![res_cifar10](figure/res_cifar10.png)
+<img src="figure/res_cifar10.png" alt="res_cifar10" style="zoom:67%;" />
 
 
 
