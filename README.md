@@ -66,3 +66,10 @@ python attention-train.py --dataset=cifar10 --data_num=500 --n_epochs=30
 ## Citation
 
 coming soon
+
+
+
+## Reference
+
+[Data-Free Learning of Student Networks](https://github.com/huawei-noah/Data-Efficient-Model-Compression/tree/master/DAFL)
+
