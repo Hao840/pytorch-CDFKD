@@ -65,7 +65,16 @@ python attention-train.py --dataset=cifar10 --data_num=500 --n_epochs=30
 
 ## Citation
 
-coming soon
+```
+@inproceedings{CDFKD,
+  title={Model Compression via Collaborative Data-Free Knowledge Distillation for Edge Intelligence},
+  author={Hao, Zhiwei and Luo, Yong and Wang, Zhi and Hu, Han and An, Jianping},
+  booktitle={2021 IEEE International Conference on Multimedia and Expo (ICME)},
+  pages={1--6},
+  year={2021},
+  organization={IEEE}
+}
+```
 
 
 
